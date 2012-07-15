@@ -10,6 +10,7 @@ public class AloMundo2 {
 		System.out.println("6 push");
 		System.out.println("7 push");
 		System.out.println("8 push");
+		System.out.println("9 push");
 	}
 	
 }
