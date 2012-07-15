@@ -6,6 +6,7 @@ public class AloMundo2 {
 		System.out.println("2 tentativa");
 		System.out.println("3 tentativa");
 		System.out.println("4 tentativa");
+		System.out.println("5 push");
 	}
 	
 }
